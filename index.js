@@ -97,7 +97,7 @@ module.exports = () => {
     * @return {Promise} A Promise that resolves when the engine is fully loaded.
     */
   EngineHandlebars.prototype.initialise = function () {
-    const paths = this.config.get('engines.handlebars.paths')
+    // const paths = this.config.get('engines.handlebars.paths')
 
     var helpersPath
 
