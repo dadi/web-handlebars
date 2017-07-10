@@ -71,8 +71,6 @@ To include `header.hbs` from `contact-info.hbs`, you can do:
 
 ## Helpers
 
-This module automatically includes the official set of [helpers by LinkedIn](https://github.com/linkedin/dustjs-helpers). Other helper modules will need to be required manually, using a loader file placed in the helpers directory defined in config (e.g. `workspace/utils/helpers/loader.js`)
-
 *Example:*
 
 ```js
