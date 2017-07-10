@@ -1,0 +1,11 @@
+{{> 'partials/header' }}
+
+<h1>Products:</h1>
+
+<ul>
+  {{#each products}}
+    <li>{{renderProduct .}}</li>
+  {{/each}}
+</ul>
+
+{{> 'partials/footer' }}
