@@ -17,7 +17,8 @@
     "web",
     "handlebars",
     "handlebars.js",
-    "template"
+    "template",
+    "dadi-web-engine"
   ],
   "author": "James Lambie <jl@dadi.co>",
   "bugs": {
